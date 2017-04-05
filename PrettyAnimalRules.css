@@ -1,0 +1,23 @@
+img {
+	height: 200px;
+	width: 300px;
+}
+
+#panda {
+	height: 300px;
+}
+
+body {
+	background-color: yellow;
+}
+
+table {
+	margin-left: 300px;
+}
+
+td {
+	font-size: 30px;
+	color: blue;
+	padding-right: 30px;
+	padding-bottom: 30px;
+}
