@@ -1,0 +1,6 @@
+table {
+    background-image: url("avatar.jpg");
+}
+table, th, td {
+    border: 1px solid black;
+}
